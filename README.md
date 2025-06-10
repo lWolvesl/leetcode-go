@@ -1,4 +1,4 @@
-# leecode
+# leetcode
 
 - https://github.com/lWolvesl/leetcode-go.git
 - https://gitea.wolves.top/wolves/leetcode-go.git
